@@ -7,7 +7,7 @@ Brown-bag session: Maps!
 
 <hr>
 
-<b>This is a polygon:</b>
+<b>This is a polygon:</b><br><br>
 <img src="http://i.imgur.com/y7kf6z1.png" width="400" style="max-width:100%; border:1px solid #ccc" />
 
 ###Choropleths
