@@ -2,7 +2,7 @@
 Brown-bag session: Maps!
 
 ###Points and polygons
-<b>This is a point:</b>
+<b>This is a point:</b><br><br>
 <img src="http://i.imgur.com/n6l60p0.png" width="400" style="max-width:100%; border:1px solid #ccc" />
 
 <hr>
