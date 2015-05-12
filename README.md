@@ -1,7 +1,7 @@
 #Making interactive maps
 Brown-bag session: Maps!
 
-##Points and polygons
+###Points and polygons
 This is a point:
 
 
@@ -10,23 +10,20 @@ This is a polygon:
 
 
 
-##Choropleths
+###Choropleths
+<img src=""http://dataomaha.com/media/news/2015/wildfires/img/latest.png"" style="width:100%; max-width:400px;" />
 
-
-##Using Fusion Tables
+###Using Fusion Tables
 Today, we're going to use <a href="https://support.google.com/fusiontables/answer/2571232?hl=en">Fusion Tables</a>, a Google data management and visualization tool. You can use <a href="http://shpescape.com/">SHPescape</a> to get your shapefile into Fusion Tables, or you can open it in, say, <a href="http://www.qgis.org/">QGIS</a> and save as a different format, or if you're comfortable using the command line you could use <a href="http://www.gdal.org/ogr2ogr.html">ogr2ogr</a> to convert.
 
-##Using internal map-making tools
+###Do you really need a map?
+Is geography/location important to your analysis or presentation? If not, maybe you don't need a map.
 
-##Do you really need a map?
-
-
-##Analysis
+###Analysis
 Choropleth
 Points in polygon
 
-##Data sources
-
+###Data sources
 Whenever you come across something like this in a report --
 
 <img src="http://i.imgur.com/KYyzEXQ.jpg" style="width:100%; max-width:400px;" />
@@ -35,7 +32,7 @@ Whenever you come across something like this in a report --
 
 Typically, a shapefile comes packaged with a group of related files: .prj, .dbf, .cpg, .shx, etc. (You can read up on the file format specifications <a href="https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf">here</a>, if that sounds like a thing you would enjoy.) Other formats you might encounter: KML/KMZ, geoJSON, topoJSON.
 
-Some agencies that post GIS data online:
+###Some agencies that post GIS data online:
 <ul>
 <li><a href="http://www.census.gov/geo/maps-data/data/tiger.html">Census TIGER data</a>
 <li><a href="http://catalog.data.gov/dataset?metadata_type=geospatial">data.gov</a></li>
