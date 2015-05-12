@@ -2,11 +2,12 @@
 Brown-bag session: Maps!
 
 ###Points and polygons
-This is a point:
-
+<b>This is a point:</b>
 <img src="http://i.imgur.com/n6l60p0.png" width="400" style="max-width:100%; border:1px solid #ccc" />
 
-This is a polygon:
+<hr>
+
+<b>This is a polygon:</b>
 <img src="http://i.imgur.com/y7kf6z1.png" width="400" style="max-width:100%; border:1px solid #ccc" />
 
 ###Choropleths
