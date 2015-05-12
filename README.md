@@ -11,7 +11,7 @@ This is a polygon:
 
 
 ###Choropleths
-<img src=""http://dataomaha.com/media/news/2015/wildfires/img/latest.png"" style="width:100%; max-width:400px;" />
+<img src="http://dataomaha.com/media/news/2015/wildfires/img/latest.png" style="width:400px; max-width:100%;" />
 
 ###Using Fusion Tables
 Today, we're going to use <a href="https://support.google.com/fusiontables/answer/2571232?hl=en">Fusion Tables</a>, a Google data management and visualization tool. You can use <a href="http://shpescape.com/">SHPescape</a> to get your shapefile into Fusion Tables, or you can open it in, say, <a href="http://www.qgis.org/">QGIS</a> and save as a different format, or if you're comfortable using the command line you could use <a href="http://www.gdal.org/ogr2ogr.html">ogr2ogr</a> to convert.
@@ -20,13 +20,12 @@ Today, we're going to use <a href="https://support.google.com/fusiontables/answe
 Is geography/location important to your analysis or presentation? If not, maybe you don't need a map.
 
 ###Analysis
-Choropleth
-Points in polygon
+Choropleth, points in polygon
 
 ###Data sources
 Whenever you come across something like this in a report --
 
-<img src="http://i.imgur.com/KYyzEXQ.jpg" style="width:100%; max-width:400px;" />
+<img src="http://i.imgur.com/KYyzEXQ.jpg" style="width:400px; max-width:100%;" />
 
 -- chances are you can request the underlying data to make your own map. ESRI is the GIS vendor for a lot of government agencies, so they'll probably at least have a shapefile to give you.
 
