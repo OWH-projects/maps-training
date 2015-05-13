@@ -95,3 +95,10 @@ A non-exhaustive list of some locally available GIS data. (If you can't find it 
 <li>Blight</li>
 <li>Omaha planning inspector areas</li>
 </ul>
+
+###More Links
+<ul>
+<li><a href="https://source.opennews.org/en-US/learning/connecting-dots/">Jacob Harris: Connecting to the Dots</a></li>
+<li><a href="http://leafletjs.com">Leaflet</a></li>
+<li><a href="http://colorbrewer2.org/">ColorBrewer</a></li>
+</ul>
